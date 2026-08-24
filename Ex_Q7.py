@@ -25,3 +25,6 @@ def triPeri(a,b,c):
 def cirCir(r):
     return 2*math.pi*r
 
+#curved surface area function
+def cylSurf(r,h):
+    return 2*math.pi*r*h
